@@ -20,6 +20,8 @@ DAO is a composition of smart contracts running on the underlying permissionless
 
 DAO – An organization that runs autonomously, in a decentralized manner, that functions without the need for centralized parties to make decisions for the organization to grow, to be profitable, or \*physically\* exist to serve its overall purpose. A DAO can be an on-chain contract, or a series of on-chain contracts that interoperate to complete some greater organizational function. \([Steven McKie](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980)\)
 
+DAO - A coordination mechanism among independent entities that is capable of producing, inside an unpredictable environment, a predefined outcome without relying on a hierarchical or centralized organization of those entities. 
+
 DAC \(Decentralized autonomous corporations/companies\) are a smaller topic, because they are basically a subclass of DAOs, but they are worth mentioning. Since the main exponent of DAC as terminology is Daniel Larimer, we will borrow as a definition the point that he himself consistently promotes: DAC is the DAO that pays dividends \[[source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\]. 
 
 ## Promises of DAO
